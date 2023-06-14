@@ -12,7 +12,7 @@ This repository contains an example Rust REST API implementation using the Actix
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/rust-rest-api.git
+git clone https://github.com/TechSavvyScribe/rust-rest-api.git
 ```
 
 2. Navigate to the project directory:
@@ -27,7 +27,7 @@ cd rust-rest-api
 cargo run
 ```
 
-4. Access the API endpoints using your preferred HTTP client. The base URL is `http://localhost:8000/api/users`.
+4. Access the API endpoints using your preferred HTTP client. The base URL is `http://127.0.0.1:8000/api/users`.
 
 ## API Endpoints
 
